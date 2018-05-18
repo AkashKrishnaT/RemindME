@@ -37,8 +37,6 @@ CREATE TABLE IF NOT EXISTS `reminder_main` (
 -- Dumping data for table `reminder_main`
 --
 
-INSERT INTO `reminder_main` (`id`, `subject`, `date`, `time`) VALUES
-(4, 'Hello Kutta', '12-03-2015', '4:00pm');
 
 -- --------------------------------------------------------
 
